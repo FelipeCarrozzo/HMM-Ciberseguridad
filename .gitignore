@@ -1,4 +1,4 @@
 data/
 .venv/
-*subset_dataset.parquet
 data_sample/subset_dataset.parquet
+data_sample/columnas_dataset.md
