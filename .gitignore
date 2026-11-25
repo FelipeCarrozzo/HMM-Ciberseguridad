@@ -1,4 +1,5 @@
-data/
+datos/
+img/
 .venv/
 data_sample/subset_dataset.parquet
 data_sample/columnas_dataset.md
